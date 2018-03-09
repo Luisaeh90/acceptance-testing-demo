@@ -1,4 +1,4 @@
-Feature('Forms');
+Feature('Main Page');
 
 Scenario('Login Fail', (I,loginPage) => {
   I.amOnPage('/');
