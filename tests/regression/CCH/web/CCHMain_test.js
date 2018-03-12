@@ -18,7 +18,6 @@ Scenario('Strokes Survey', (I, loginPage,surveyPage) => {
   I.waitForElement('.quiz-info__description',10);
   I.wait(2);
   I.see('Test your heart health knowledge.');
-  //I.click('Start Over'); 
   I.click('Retake Survey');
   I.wait(5);
 

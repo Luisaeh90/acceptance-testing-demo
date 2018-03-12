@@ -21,6 +21,4 @@ module.exports = {
     I.click(buttonName);
     I.wait(5);
 }
- 
-  // insert your locators and methods here
 }

@@ -32,5 +32,4 @@ module.exports = {
     I.click(this.fields.image);
   }
 
-  // insert your locators and methods here
 }
